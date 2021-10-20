@@ -4,11 +4,11 @@
   
 ### <div align="center">I'm Daavid Ng, an undergraduate student 🏫 Working as a backend support intern!</div>  
 
-- 💬 Ask me about anything regarding machine learning, statistics, and programming.  
+- 💬 Ask me about anything regarding machine learning, statistics, and programming
   
-- 🌱 I’m currently learning Tableau, Investment, and AI.  
+- 🌱 I’m currently learning Tableau, Investment, and AI
 
-- 🤔 I’m looking for help with expert in data science field to provide me guidance :D  
+- 🤔 I’m looking for help with expert in data science field to provide me guidance
 
 - 📫 How to reach me: davidngkienloong00@gmail.com  
 
