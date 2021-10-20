@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Daavidng/Daavidng/blob/main/spongebob-explosion.gif" align="center" style="width: 70%" />
+<img src="https://github.com/Daavidng/Daavidng/blob/main/spongebob-explosion.gif" align="center" style="width: 33%" />
 </div>  
   
 ### <div align="center">I'm Daavid Ng, an undergraduate student 🏫 Working as a backend support intern!</div>  
