@@ -2,7 +2,7 @@
 <img src="https://github.com/Daavidng/Daavidng/blob/main/spongebob-explosion.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm Daavid Ng, an undergraduate student 🏫 I’m currently working as a backend support intern!</div>  
+### <div align="center">I'm Daavid Ng, an undergraduate student 🏫 Working as a backend support intern!</div>  
 
 - 💬 Ask me about anything regarding machine learning, statistics, and programming.  
   
