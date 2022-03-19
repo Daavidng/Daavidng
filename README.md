@@ -6,7 +6,7 @@
 
 - 💬 Ask me about anything regarding machine learning, statistics, and programming
   
-- 🌱 I’m currently learning Tableau, Investment, and AI
+- 🌱 I’m currently learning MongoDB and Tableau
 
 - 🤔 I’m looking for help with expert in data science field to provide me guidance
 
