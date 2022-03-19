@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning MongoDB and Tableau
 
-- 🤔 I’m looking for help with expert in data science field to provide me guidance
+- 🤔 I’m looking for job opportunities for self development in domain skills
 
 - 📫 How to reach me: davidngkienloong00@gmail.com  
 
