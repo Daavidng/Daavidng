@@ -4,11 +4,9 @@
   
 ### <div align="center">I'm Daavid Ng, Applied Math with Computing Graduates</div>  
 
-- 💬 Ask me about anything regarding machine learning, statistics, and programming
+- 💬 Ask me about anything regarding statistics, machine learning, and artificial intelligence
   
-- 🌱 I’m currently learning MongoDB and Tableau
-
-- 🤔 I’m looking for job opportunities for self development in domain skills
+- 🌱 I’m currently learning statistical process control and advanced SQL
 
 - 📫 How to reach me: davidngkienloong00@gmail.com  
 
