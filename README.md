@@ -2,7 +2,7 @@
 <img src="https://github.com/Daavidng/Daavidng/blob/main/spongebob-explosion.gif" align="center" style="width: 33%" />
 </div>  
   
-### <div align="center">I'm Daavid Ng, Applied Math with Computing Graduates</div>  
+### <div align="center">Daavid Ng is here, an Applied Math with Computing Graduates</div>  
 
 - 💬 Ask me about anything regarding statistics, machine learning, and artificial intelligence
   
