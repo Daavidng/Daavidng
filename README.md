@@ -77,12 +77,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Daavidng&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
-
-
-## Recent Blog Posts  
-https://www.blogger.com/blog/posts/7256418821747273212?hl=en&tab=jj  
   
-
 <br/>  
 <br/>  
 <br/>  
