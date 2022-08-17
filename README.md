@@ -6,7 +6,7 @@
 
 - 💬 Ask me about anything regarding statistics, machine learning, and artificial intelligence
   
-- 🌱 I’m currently learning statistical process control and advanced SQL
+- 🌱 I’m currently learning Bayesian Statistics, Linux, and Snowflake. 
 
 - 📫 How to reach me: davidngkienloong00@gmail.com  
 
